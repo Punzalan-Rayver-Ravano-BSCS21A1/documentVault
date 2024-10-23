@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|c:\\users\\punza\\desktop\\windows\\docuvault-main\\documentmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\documentmanagementsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\documentmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\documentmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\documentmanagementsystem\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\documentmanagementsystem\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\documentmanagementsystem\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\DocumentManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\DocumentManagementSystem\\Form1.cs",
+              "RelativeToolTip": "DocumentManagementSystem\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:03:01.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\DocumentManagementSystem\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\DocumentManagementSystem\\Services\\UserService.cs",
+              "RelativeToolTip": "DocumentManagementSystem\\Services\\UserService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:37:50.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\DocumentManagementSystem\\UserManagementForm.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem\\UserManagementForm.cs",
+              "ToolTip": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\DocumentManagementSystem\\UserManagementForm.cs",
+              "RelativeToolTip": "DocumentManagementSystem\\UserManagementForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:26:47.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\DocumentManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\DocumentManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "DocumentManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:30:51.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\DocumentManagementSystem\\UserManagementForm.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem\\UserManagementForm.cs",
+              "ToolTip": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\DocumentManagementSystem\\UserManagementForm.cs [Design]",
+              "RelativeToolTip": "DocumentManagementSystem\\UserManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:23:25.808Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\DocumentManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\DocumentManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "DocumentManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:44:38.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\DocumentManagementSystem\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\punza\\Desktop\\windows\\DocuVault-main\\DocumentManagementSystem\\Data\\Database.cs",
+              "RelativeToolTip": "DocumentManagementSystem\\Data\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:10:33.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
